@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "openneuro": {
+      "command": "/path/to/your/venv/bin/python",
+      "args": [
+        "/path/to/your/openneuro-mcp-server/mcp_openneuro.py"
+      ],
+      "options": {
+        "cwd": "/path/to/your/openneuro-mcp-server"
+      }
+    }
+  }
+} 
